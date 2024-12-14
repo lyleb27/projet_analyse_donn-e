@@ -1,0 +1,481 @@
+ip,timestamp,method,url,status,size,referer,user_agent
+94.176.235.106,1715468791,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+185.135.132.105,1715484334,GET,/.well-known/acme-challenge/2b84af977753ceeb302c7843af884df2.txt,200,64,-,-
+185.135.132.105,1715484334,GET,/.well-known/acme-challenge/2b84af977753ceeb302c7843af884df2.txt,200,64,-,-
+185.135.132.105,1715484335,GET,/.well-known/acme-challenge/2b84af977753ceeb302c7843af884df2.txt,200,64,-,-
+43.134.66.205,1715485076,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.134.66.205,1715485080,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+137.184.52.77,1715497448,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+137.184.52.77,1715497448,GET,/,200,3116,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+54.36.148.117,1715500753,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+89.47.162.206,1715502341,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+43.134.89.111,1715521754,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.134.89.111,1715521757,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+114.119.154.186,1715532478,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.134.159,1715532528,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+196.196.53.103,1715534354,GET,/,301,0,http://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36"
+196.196.53.103,1715534354,GET,/,200,11455,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36"
+199.45.154.74,1715536874,GET,/,200,3112,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+199.45.154.74,1715536882,GET,/favicon.ico,200,198,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+34.213.43.121,1715537120,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+34.213.43.121,1715537120,GET,/,200,11467,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+13.80.183.173,1715537122,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+13.80.183.173,1715537123,GET,/,200,11487,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+164.92.79.36,1715543917,GET,/,403,9,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+164.92.79.36,1715543918,GET,/,403,9,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+199.45.155.36,1715543992,GET,/,403,9,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+199.45.155.38,1715549192,GET,/,403,9,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+51.222.253.14,1715551075,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.38,1715551136,GET,/Biologie-Douleur/,200,2474,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.77,1715551138,GET,/js/a189254f70750975b8138e39d514692d-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.27,1715551138,GET,/css/a189254f70750975b8138e39d514692d-bundle.css?ts=20240308175348,200,1915,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+173.252.95.5,1715561433,GET,/robots.txt,200,79,-,facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+150.109.253.34,1715564689,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+150.109.253.34,1715564693,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+195.181.242.86,1715565359,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+209.97.151.182,1715570324,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.135.132.105,1715570388,GET,/.well-known/acme-challenge/c340e6db040ec32159a40b8835da975b.txt,200,64,-,-
+185.135.132.105,1715570388,GET,/.well-known/acme-challenge/c340e6db040ec32159a40b8835da975b.txt,200,64,-,-
+185.135.132.105,1715570389,GET,/.well-known/acme-challenge/c340e6db040ec32159a40b8835da975b.txt,200,64,-,-
+51.222.253.16,1715571177,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+34.219.83.52,1715581257,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+34.219.83.52,1715581258,GET,/,200,11467,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+137.184.28.197,1715581275,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+137.184.28.197,1715581276,GET,/,200,3112,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+13.80.183.173,1715581440,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+13.80.183.173,1715581443,GET,/,200,11487,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+194.38.23.16,1715583265,GET,/administrator/components/com_facileforms/libraries/jquery/tooltip.js,301,0,-,ALittle Client
+194.38.23.16,1715583265,GET,/components/com_jbcatalog/libraries/jsupload/server/php/index.php?file=tf2rghf.jpg%20,301,0,-,ALittle Client
+194.38.23.16,1715583266,GET,/index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1,301,0,-,ALittle Client
+194.38.23.16,1715583283,GET,/administrator/components/com_facileforms/libraries/jquery/tooltip.js/,404,119,-,ALittle Client
+194.38.23.16,1715583285,GET,/components/com_jbcatalog/libraries/jsupload/server/php/index.php?file=tf2rghf.jpg%20/,404,119,-,ALittle Client
+194.38.23.16,1715583287,GET,/index.php?option=com_collector&view=filelist&tmpl=component&folder=&type=1/,404,119,-,ALittle Client
+114.119.132.61,1715583657,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+185.13.180.48,1715588349,GET,/favicon.ico,200,198,https://www.ecosia.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/,200,2770,https://www.ecosia.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913228,200,7500,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery/me2-ts1646066878.jpg?ts=1709913228,200,19809,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery_gen/75249935f85a68f7a45a7c695888e1ba_648x418_fit.jpg,200,29934,https://laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery_gen/d8d170e7b7a55dc126dec8114c762cc4_fit.png,200,161423,https://laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery_gen/14affb9e83bbf7610e10b3e734f7b9ff_fit.jpg,200,235691,https://laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/gallery_gen/18ee1e97456396713b6cd4af54f17d1b_600x752_fit.png,200,642908,https://laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588352,GET,/favicon.ico,200,198,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588374,GET,/RECHERCHE/,200,3058,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588374,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588374,GET,/js/a189254f707505e18ef67af2427491de-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588374,GET,/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,200,1908,https://laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588374,GET,/gallery_gen/d6b1620b8139d1ca670f5a36b5671ba7_fit.jpg,200,312733,https://laboratoire-orphye.org/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588394,GET,/Publications-1/,200,4239,https://laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588394,GET,/js/a18e1e65334c00fddfe34d7b9c2faca7-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/Publications-1/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588394,GET,/css/a18e1e65334c00fddfe34d7b9c2faca7-bundle.css?ts=20240308175348,200,1918,https://laboratoire-orphye.org/Publications-1/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588441,GET,/LIVRES/,200,2405,https://laboratoire-orphye.org/Publications-1/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588441,GET,/js/a189254f707508742ff66f8137b339d5-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588441,GET,/css/a189254f707508742ff66f8137b339d5-bundle.css?ts=20240308175348,200,2220,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588441,GET,/gallery/Tensor1.png?ts=1709913229,200,354341,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588441,GET,/gallery_gen/ee66ef0d370bd0338348dab55a5e2c16_fit.jpg,200,299581,https://laboratoire-orphye.org/css/a189254f707508742ff66f8137b339d5-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588460,GET,/Publications-1/,200,4239,https://laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588462,GET,/RECHERCHE/,200,3058,https://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.13.180.48,1715588462,GET,/,200,2770,https://www.ecosia.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+42.83.147.34,1715589357,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36"
+42.83.147.34,1715589359,GET,/,200,3112,-,"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36"
+54.36.149.89,1715590681,GET,/ENSEIGNEMENTS/,200,3142,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.84,1715590691,GET,/css/a189254f707504b689e116183e9da84e-bundle.css?ts=20240308175348,200,1913,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.187,1715590692,GET,/js/a189254f707504b689e116183e9da84e-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.165,1715600022,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.13,1715600084,GET,/ENSEIGNEMENTS/,200,3138,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.75,1715600084,GET,/css/a189254f707504b689e116183e9da84e-bundle.css?ts=20240308175348,200,1913,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.199,1715600085,GET,/js/a189254f707504b689e116183e9da84e-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+43.128.100.206,1715602187,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.128.100.206,1715602192,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+109.235.67.253,1715613272,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+52.167.144.58,1715613744,GET,/robots.txt,200,70,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+40.77.167.67,1715613752,GET,/RECHERCHE/,200,3058,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.194,1715613802,GET,/css/common-bundle.css?ts=20240308175348,200,31560,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.194,1715613802,GET,/js/common-bundle.js?ts=20240308175348,200,50409,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+40.77.167.67,1715613806,GET,/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,200,1908,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+40.77.167.67,1715613807,GET,/js/a189254f707505e18ef67af2427491de-bundle.js?ts=20240308175348,200,1,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+162.240.107.194,1715619728,GET,/.env,403,9,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+66.249.66.38,1715629112,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.38,1715629112,GET,/,200,2770,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.38,1715629112,GET,/,200,2770,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.37,1715629113,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://laboratoire-orphye.org/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/124.0.6367.118 Safari/537.36"
+66.249.66.39,1715629113,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/124.0.6367.118 Safari/537.36"
+66.249.66.38,1715629113,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.39,1715629113,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.37,1715629114,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/124.0.6367.118 Safari/537.36"
+66.249.66.39,1715629114,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.38,1715629114,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://laboratoire-orphye.org/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/124.0.6367.118 Safari/537.36"
+185.191.171.3,1715633611,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+85.208.96.193,1715633612,GET,/Publications-1/,200,4603,-,Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+89.47.161.237,1715641678,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+43.163.1.85,1715642568,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.163.1.85,1715642572,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+185.215.180.76,1715647721,GET,/wordpress/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647723,GET,/wordpress/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647724,GET,/wp/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647724,GET,/wp/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647726,GET,/blog/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647726,GET,/blog/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647728,GET,/old/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647728,GET,/old/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647730,GET,/new/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647730,GET,/new/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647731,GET,/test/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647732,GET,/test/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647733,GET,/backup/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647733,GET,/backup/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647735,GET,/temp/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647735,GET,/temp/,404,104,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647736,GET,/,301,0,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.215.180.76,1715647737,GET,/,200,3112,-,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+185.135.132.105,1715657262,GET,/.well-known/acme-challenge/9e7eea9c091510c1b98438354f17f136.txt,200,64,-,-
+185.135.132.105,1715657262,GET,/.well-known/acme-challenge/9e7eea9c091510c1b98438354f17f136.txt,200,64,-,-
+185.135.132.105,1715657263,GET,/.well-known/acme-challenge/9e7eea9c091510c1b98438354f17f136.txt,200,64,-,-
+144.91.106.14,1715658385,GET,/,301,0,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+144.91.106.14,1715658385,GET,/,301,0,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+144.91.106.14,1715658385,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+144.91.106.14,1715658386,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+144.91.106.14,1715658386,GET,/,200,3112,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+144.91.106.14,1715658386,GET,/,200,3116,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+114.119.129.25,1715669158,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+52.167.144.198,1715670947,GET,/,200,2770,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+40.77.167.76,1715670971,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.198,1715670977,GET,/css/common-bundle.css?ts=20240308175348,200,31560,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.198,1715671007,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.58,1715671021,GET,/robots.txt,200,70,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.198,1715671037,GET,/js/common-bundle.js?ts=20240308175348,200,50409,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+5.62.34.19,1715673493,GET,/.env,403,9,-,-
+128.90.141.87,1715677357,HEAD,/wordpress,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677357,HEAD,/wordpress/,404,0,http://www.laboratoire-orphye.org/wordpress,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677357,HEAD,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/,200,0,http://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/wp,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/wp/,404,0,http://www.laboratoire-orphye.org/wp,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/bc,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/bc/,404,0,http://www.laboratoire-orphye.org/bc,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/bk,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/bk/,404,0,http://www.laboratoire-orphye.org/bk,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/backup,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/backup/,404,0,http://www.laboratoire-orphye.org/backup,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/old,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/old/,404,0,http://www.laboratoire-orphye.org/old,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/new,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/new/,404,0,http://www.laboratoire-orphye.org/new,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/main,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/main/,404,0,http://www.laboratoire-orphye.org/main,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/home,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+128.90.141.87,1715677358,HEAD,/home/,404,0,http://www.laboratoire-orphye.org/home,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+43.157.40.112,1715682641,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.157.40.112,1715682642,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+89.47.162.206,1715684129,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+52.176.165.162,1715684582,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0 OS/10.0.19045"
+52.176.165.162,1715684583,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0 OS/10.0.19045"
+52.176.165.162,1715684583,GET,/wp-admin/install.php,301,0,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+52.176.165.162,1715684584,GET,/wp-admin/install.php/,404,104,http://laboratoire-orphye.org/wp-admin/install.php,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0"
+52.176.165.162,1715684584,GET,/feed/,301,0,-,"Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+52.176.165.162,1715684585,GET,/feed/,404,104,http://laboratoire-orphye.org/feed/,"Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+52.176.165.162,1715684585,GET,/?feed=rss2,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42"
+52.176.165.162,1715684586,GET,/?feed=rss2/,200,3122,http://laboratoire-orphye.org/?feed=rss2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42"
+47.128.35.109,1715685629,GET,/LIVRES/,200,2717,-,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685630,GET,/css/common-bundle.css?ts=20240308175348,200,34983,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685630,GET,/js/a189254f707508742ff66f8137b339d5-bundle.js?ts=20240308175348,200,0,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685630,GET,/css/a189254f707508742ff66f8137b339d5-bundle.css?ts=20240308175348,200,2431,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685630,GET,/js/common-bundle.js?ts=20240308175348,200,51543,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685636,GET,/gallery/Tensor1.png?ts=1709913229,200,354341,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.35.109,1715685636,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://laboratoire-orphye.org/LIVRES/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.51.192,1715685869,GET,/robots.txt,200,85,-,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)"
+84.14.14.46,1715690956,GET,/,200,2770,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913228,200,7500,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/gallery/me2-ts1646066878.jpg?ts=1709913228,200,19809,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690956,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690957,GET,/gallery_gen/75249935f85a68f7a45a7c695888e1ba_648x418_fit.jpg,200,29934,https://www.laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690957,GET,/gallery_gen/d8d170e7b7a55dc126dec8114c762cc4_fit.png,200,161423,https://www.laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690957,GET,/gallery_gen/14affb9e83bbf7610e10b3e734f7b9ff_fit.jpg,200,235691,https://www.laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690957,GET,/gallery_gen/18ee1e97456396713b6cd4af54f17d1b_600x752_fit.png,200,642908,https://www.laboratoire-orphye.org/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690957,GET,/favicon.ico,200,198,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690973,GET,/RECHERCHE/,200,3058,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690973,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://www.laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690973,GET,/js/a189254f707505e18ef67af2427491de-bundle.js?ts=20240308175348,200,1,https://www.laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690973,GET,/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,200,1908,https://www.laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690973,GET,/gallery_gen/d6b1620b8139d1ca670f5a36b5671ba7_fit.jpg,200,312733,https://www.laboratoire-orphye.org/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+84.14.14.46,1715690994,GET,/,200,2770,https://www.laboratoire-orphye.org/RECHERCHE/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+54.36.148.238,1715696502,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+134.209.19.86,1715696911,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+134.209.19.86,1715696911,GET,/,200,3112,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+104.238.38.54,1715700455,GET,/,301,0,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68"
+104.238.38.54,1715700456,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68"
+45.41.177.11,1715700458,GET,/Contacts/,200,3783,http://laboratoire-orphye.org,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68"
+206.41.179.83,1715700466,POST,/Contacts/,200,3783,https://laboratoire-orphye.org/Contacts/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68"
+192.36.109.94,1715707278,GET,/robots.txt,200,85,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3"
+192.36.109.78,1715707279,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3"
+192.36.109.120,1715707279,GET,/,200,3112,http://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3"
+109.235.67.253,1715708852,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+2.58.56.160,1715721669,HEAD,/wordpress,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/wordpress/,404,0,http://laboratoire-orphye.org/wordpress,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/,200,0,http://laboratoire-orphye.org/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/wp,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/wp/,404,0,http://laboratoire-orphye.org/wp,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/bc,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/bc/,404,0,http://laboratoire-orphye.org/bc,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/bk,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721673,HEAD,/bk/,404,0,http://laboratoire-orphye.org/bk,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/backup,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/backup/,404,0,http://laboratoire-orphye.org/backup,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/old,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/old/,404,0,http://laboratoire-orphye.org/old,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/new,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/new/,404,0,http://laboratoire-orphye.org/new,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/main,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/main/,404,0,http://laboratoire-orphye.org/main,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/home,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+2.58.56.160,1715721674,HEAD,/home/,404,0,http://laboratoire-orphye.org/home,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+114.119.148.4,1715722379,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+123.187.240.242,1715725935,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+123.187.240.242,1715725939,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+188.166.213.63,1715730806,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+178.128.95.173,1715736059,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736061,GET,//wp-includes/ID3/license.txt,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736061,GET,//feed/,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736062,GET,//xmlrpc.php?rsd,502,552,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736062,GET,//blog/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736062,GET,//web/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736063,GET,//wordpress/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736063,GET,//wp/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736063,GET,//2020/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736064,GET,//2019/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736064,GET,//2021/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736065,GET,//shop/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736065,GET,//wp1/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736065,GET,//test/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736066,GET,//site/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+178.128.95.173,1715736066,GET,//cms/wp-includes/wlwmanifest.xml,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+172.104.34.17,1715741030,GET,/,301,0,http://laboratoire-orphye.org,Mozilla/5.0 (compatible; Example3/1.0; +https://www.example3.com/domain/laboratoire-orphye.org)
+172.104.34.17,1715741033,GET,/,200,11475,http://laboratoire-orphye.org,Mozilla/5.0 (compatible; Example3/1.0; +https://www.example3.com/domain/laboratoire-orphye.org)
+51.222.253.2,1715744179,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.233,1715744241,GET,/COMMUNICATIONS/,200,4251,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.221,1715744244,GET,/js/a189254f7075023bd138e458a02c5d44-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.209,1715744244,GET,/css/a189254f7075023bd138e458a02c5d44-bundle.css?ts=20240308175348,200,1896,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+185.135.132.105,1715745193,GET,/.well-known/acme-challenge/59ddc9c9056b157a23c087cdc7f93cce.txt,200,64,-,-
+185.135.132.105,1715745193,GET,/.well-known/acme-challenge/59ddc9c9056b157a23c087cdc7f93cce.txt,200,64,-,-
+185.135.132.105,1715745193,GET,/.well-known/acme-challenge/59ddc9c9056b157a23c087cdc7f93cce.txt,200,64,-,-
+89.47.161.229,1715746784,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+54.36.149.60,1715752451,GET,/PUBLICATIONS/,200,4563,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.87,1715752452,GET,/css/a189254f707501120be81a7259265d03-bundle.css?ts=20240308175348,200,1910,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.143,1715752452,GET,/js/a189254f707501120be81a7259265d03-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+93.158.91.32,1715755673,GET,/,200,3112,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+93.158.91.32,1715755673,GET,/favicon.ico,200,198,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+51.222.253.3,1715758103,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.63,1715758164,GET,/PUBLICATIONS/,200,4563,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.36,1715758165,GET,/js/a189254f707501120be81a7259265d03-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.60,1715758165,GET,/css/a189254f707501120be81a7259265d03-bundle.css?ts=20240308175348,200,1910,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+52.167.144.58,1715760562,GET,/robots.txt,200,70,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.221,1715760574,GET,/sitemap.txt,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+167.99.128.111,1715761179,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+167.99.128.111,1715761179,GET,/,200,3112,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+52.167.144.220,1715762041,GET,/sitemap.txt,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+54.36.148.118,1715764346,GET,/Biologie-Douleur/,200,2476,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.64,1715764347,GET,/css/a189254f70750975b8138e39d514692d-bundle.css?ts=20240308175348,200,1915,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.113,1715764347,GET,/js/a189254f70750975b8138e39d514692d-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+176.223.130.211,1715765435,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+150.109.253.34,1715766711,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+150.109.253.34,1715766715,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+52.167.144.230,1715774313,GET,/gallery/tracto1-ts1646064057.png,200,161423,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+38.91.106.96,1715803486,GET,/wp-admin/setup-config.php?step=1,500,771,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.91.106.96,1715803487,GET,/wordpress/wp-admin/setup-config.php?step=1,500,771,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.91.106.96,1715803488,GET,/wp-admin/install.php?step=1,500,771,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+114.119.138.117,1715809287,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+182.44.2.148,1715809327,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+38.75.137.222,1715818983,GET,/wp-admin/setup-config.php?step=1,301,0,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.75.137.222,1715818984,GET,/wp-admin/setup-config.php?step=1/,404,104,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.75.137.222,1715818985,GET,/wordpress/wp-admin/setup-config.php?step=1,301,0,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.75.137.222,1715818990,GET,/wordpress/wp-admin/setup-config.php?step=1/,404,104,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.75.137.222,1715818991,GET,/wp-admin/install.php?step=1,301,0,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+38.75.137.222,1715818991,GET,/wp-admin/install.php?step=1/,404,104,-,"Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Moblie Safari/537.36"
+188.166.99.132,1715827450,GET,/,403,9,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+188.166.99.132,1715827450,GET,/,403,9,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+164.90.233.106,1715828002,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.135.132.105,1715831338,GET,/.well-known/acme-challenge/5dfd0e70b41e26f9e4d1e92233e44c64.txt,200,64,-,-
+185.135.132.105,1715831338,GET,/.well-known/acme-challenge/5dfd0e70b41e26f9e4d1e92233e44c64.txt,200,64,-,-
+185.135.132.105,1715831339,GET,/.well-known/acme-challenge/5dfd0e70b41e26f9e4d1e92233e44c64.txt,200,64,-,-
+139.99.62.111,1715832776,GET,/filemanager/dialog.php,301,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+139.99.62.111,1715832777,GET,/filemanager/dialog.php/,404,104,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+139.99.62.111,1715832778,GET,/assets/filemanager/dialog.php,301,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+139.99.62.111,1715832778,GET,/assets/filemanager/dialog.php/,404,104,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+54.245.160.33,1715838338,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+54.245.160.33,1715838338,GET,/,200,11467,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+13.80.183.173,1715838451,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+13.80.183.173,1715838451,GET,/,200,11487,-,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36"
+212.227.175.149,1715844126,GET,/,301,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+176.223.141.62,1715845079,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+178.254.24.91,1715846622,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54"
+178.254.24.91,1715846622,GET,/,200,3112,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54"
+52.167.144.211,1715847494,GET,/sitemap.xml.gz,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+104.28.42.22,1715848764,GET,/ENSEIGNEMENTS/,200,3138,https://www.google.com/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/js/a189254f707504b689e116183e9da84e-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/css/a189254f707504b689e116183e9da84e-bundle.css?ts=20240308175348,200,1913,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/gallery_gen/d6b1620b8139d1ca670f5a36b5671ba7_fit.jpg,200,312733,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+104.28.42.22,1715848765,GET,/favicon.ico,200,198,https://laboratoire-orphye.org/ENSEIGNEMENTS/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+40.77.167.70,1715849767,GET,/sitemap.xml.gz,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+36.134.147.75,1715852486,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+36.134.147.75,1715852488,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+179.43.191.18,1715853742,GET,/wp-content/plugins/litespeed-cache/readme.txt,301,0,http://laboratoire-orphye.org,Searcherweb
+179.43.191.18,1715853743,GET,/wp-content/plugins/litespeed-cache/readme.txt/,404,104,http://laboratoire-orphye.org/wp-content/plugins/litespeed-cache/readme.txt,Searcherweb
+47.128.110.160,1715855169,GET,/THESE/,200,2560,-,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.110.160,1715855169,GET,/js/a189254f7075037d006bf9586bbfbdb8-bundle.js?ts=20240308175348,200,0,https://laboratoire-orphye.org/THESE/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.110.160,1715855169,GET,/css/a189254f7075037d006bf9586bbfbdb8-bundle.css?ts=20240308175348,200,2136,https://laboratoire-orphye.org/THESE/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.110.160,1715855170,GET,/gallery_gen/ca4fafe6a017a975a3e45b0877dd8066_fit.png?ts=1709913229,200,158766,https://laboratoire-orphye.org/THESE/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.110.160,1715855170,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://laboratoire-orphye.org/THESE/,"Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36"
+47.128.57.189,1715855412,GET,/robots.txt,200,85,-,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)"
+185.215.165.176,1715855528,GET,/,200,3112,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+114.119.133.125,1715859617,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+94.176.235.106,1715878149,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+143.110.215.153,1715886236,GET,/,200,3116,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+165.227.69.128,1715886967,GET,/,200,3112,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+64.23.214.43,1715887036,GET,/robots.txt,200,85,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+209.97.138.149,1715887036,GET,/,200,3116,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)"
+161.35.137.92,1715887681,GET,/,200,3116,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+165.22.123.240,1715888231,GET,/,200,3116,-,Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+159.223.233.152,1715891236,GET,/RECHERCHE/,200,3367,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+182.44.67.97,1715896849,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+182.44.67.97,1715896850,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+217.113.194.5,1715898590,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.15,1715898594,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.3,1715898600,GET,/Contacts/,200,3783,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.11,1715898604,GET,/,301,0,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.9,1715898903,GET,/RECHERCHE/,200,3360,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.14,1715898964,GET,/LIVRES/,200,2717,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.6,1715899025,GET,/THESE/,200,2560,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.11,1715899086,GET,/PUBLICATIONS/,200,4930,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.14,1715899146,GET,/Biologie-Douleur/,200,2804,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.1,1715899206,GET,/ENSEIGNEMENTS/,200,3496,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+217.113.194.8,1715899266,GET,/COMMUNICATIONS/,200,4644,-,Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+165.232.91.134,1715899957,GET,/LIVRES/,200,2722,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+94.176.239.43,1715909779,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+164.92.193.209,1715918936,GET,/ENSEIGNEMENTS/,200,3500,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.135.132.105,1715921627,GET,/.well-known/acme-challenge/70abee46ec62afd27f1d6fa3d53fdd08.txt,200,64,-,-
+185.135.132.105,1715921627,GET,/.well-known/acme-challenge/70abee46ec62afd27f1d6fa3d53fdd08.txt,200,64,-,-
+185.135.132.105,1715921628,GET,/.well-known/acme-challenge/70abee46ec62afd27f1d6fa3d53fdd08.txt,200,64,-,-
+66.249.66.18,1715923138,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.20,1715923138,GET,/,301,0,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.2,1715923139,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.1,1715923139,GET,/,200,2770,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.2,1715923142,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.1,1715923142,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715923144,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.18,1715923153,GET,/,301,0,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.23,1715923154,GET,/,200,2770,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.18,1715923154,GET,/,301,0,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715923155,GET,/,200,2770,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715923156,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://www.laboratoire-orphye.org/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/124.0.6367.201 Safari/537.36"
+66.249.66.23,1715923156,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.201 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715923168,GET,/favicon.ico,200,198,-,Googlebot-Image/1.0
+66.249.66.20,1715927292,GET,/,301,0,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715927292,GET,/,200,2770,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715927300,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.23,1715927300,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://www.laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.118 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+170.106.181.63,1715932178,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+170.106.181.63,1715932180,GET,/,200,3116,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+165.231.45.28,1715933697,GET,/Contacts/,200,3369,-,Mozilla/5.0 (Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+165.231.35.64,1715933698,POST,/Contacts/,200,3369,https://laboratoire-orphye.org/Contacts/,Mozilla/5.0 (Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+5.161.65.10,1715934176,GET,/Contacts/,200,3787,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+194.38.23.16,1715934409,GET,/index.php?option=com_fabrik&c=import&view=import,301,0,-,ALittle Client
+194.38.23.16,1715934410,GET,/modules/mod_dionefileuploader/upload.php,301,0,-,ALittle Client
+52.167.144.59,1715934413,GET,/robots.txt,200,70,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+194.38.23.16,1715934423,GET,/index.php?option=com_fabrik&c=import&view=import/,404,119,-,ALittle Client
+194.38.23.16,1715934425,GET,/modules/mod_dionefileuploader/upload.php/,404,119,-,ALittle Client
+40.77.167.136,1715934426,GET,/gallery/IOA_A4_GP.pdf,200,5191447,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+40.77.167.52,1715934697,GET,/sitemap.txt,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+64.23.214.40,1715935195,GET,/Biologie-Douleur/,200,2808,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+52.167.144.59,1715936266,GET,/robots.txt,200,70,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.195,1715936279,GET,/sitemap_index.xml,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+52.167.144.187,1715938672,GET,/sitemap.txt,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+176.223.132.213,1715939730,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+52.167.144.180,1715940996,GET,/sitemap_index.xml,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+170.106.104.42,1715941023,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+170.106.104.42,1715941028,GET,/,200,3112,http://laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+159.223.230.117,1715941187,GET,/,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+159.223.230.117,1715941187,GET,/,200,3112,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+162.142.125.214,1715942004,GET,/,200,3116,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+162.142.125.214,1715942006,GET,/favicon.ico,200,198,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+5.161.249.164,1715945867,GET,/Publications-1/,200,4604,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+114.119.150.127,1715946288,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+199.45.155.29,1715946684,GET,/,301,0,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+199.45.155.29,1715946697,GET,/,200,3116,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+199.45.155.29,1715946704,GET,/favicon.ico,200,198,-,Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+146.59.240.193,1715953959,GET,/,200,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+146.59.240.181,1715953959,GET,/favicon.ico,200,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0
+146.59.242.57,1715953959,GET,/favicon.ico,200,0,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0
+146.59.242.57,1715953959,GET,/,200,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+146.59.240.181,1715953965,GET,/,200,2770,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+146.59.240.181,1715953965,GET,/favicon.ico,200,198,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+164.92.197.38,1715954494,GET,/THESE/,200,2563,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+66.249.70.195,1715955696,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.70.195,1715955696,GET,/,301,0,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.199,1715955696,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.70.200,1715955697,GET,/,200,2770,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.199,1715955698,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.201 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.201,1715955699,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.201 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.201,1715955700,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.201 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.199,1715955700,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.201 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+165.227.69.35,1715961525,GET,/PUBLICATIONS/,200,4931,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+89.47.161.229,1715966041,GET,/?wbTokenVerifyDiag=1,200,298,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+137.226.113.44,1715968985,GET,/,200,3116,-,Mozilla/5.0 researchscan.comsys.rwth-aachen.de
+78.47.119.190,1715972982,GET,/wp-login.php,301,0,-,Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/95.0
+78.47.119.190,1715972982,GET,/wp-login.php/,404,104,http://laboratoire-orphye.org/wp-login.php,Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/95.0
+86.239.197.245,1715982895,GET,/RECHERCHE/,200,3058,https://www.google.com/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/js/a189254f707505e18ef67af2427491de-bundle.js?ts=20240308175348,200,1,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/gallery_gen/3a6850ebafa9683e2edb4ce0102e793f_fit.png?ts=1709913229,200,7500,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,200,1908,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/css/common-bundle.css?ts=20240308175348,200,31560,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/js/common-bundle.js?ts=20240308175348,200,50409,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/gallery_gen/d6b1620b8139d1ca670f5a36b5671ba7_fit.jpg,200,312733,https://laboratoire-orphye.org/css/a189254f707505e18ef67af2427491de-bundle.css?ts=20240308175348,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+86.239.197.245,1715982895,GET,/favicon.ico,200,198,https://laboratoire-orphye.org/RECHERCHE/,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+47.236.122.103,1715987766,GET,/.vscode/sftp.json,301,0,-,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36"
+47.236.122.103,1715987767,GET,/.vscode/sftp.json/,404,104,-,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36"
+47.236.122.103,1715987768,GET,/sftp-config.json,301,0,-,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36"
+47.236.122.103,1715987769,GET,/sftp-config.json/,404,104,-,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36"
+142.93.190.3,1715990489,GET,/Biophysique/,200,2814,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+175.6.217.4,1715996519,GET,/,301,0,-,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+175.6.217.4,1715996521,GET,/,200,3116,http://www.laboratoire-orphye.org,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+114.119.152.207,1716000222,GET,/robots.txt,200,85,-,Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+159.65.197.155,1716005297,GET,/COMMUNICATIONS/,200,4647,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+185.135.132.105,1716007475,GET,/.well-known/acme-challenge/3843d3a85d37c9eb74c125b8662d1653.txt,200,64,-,-
+185.135.132.105,1716007475,GET,/.well-known/acme-challenge/3843d3a85d37c9eb74c125b8662d1653.txt,200,64,-,-
+185.135.132.105,1716007476,GET,/.well-known/acme-challenge/3843d3a85d37c9eb74c125b8662d1653.txt,200,64,-,-
+54.36.148.228,1716010213,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.54,1716010275,GET,/COMMUNICATIONS/,200,4250,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.66,1716010277,GET,/css/common-bundle.css?ts=20240308175348,200,31560,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.173,1716010277,GET,/js/common-bundle.js?ts=20240308175348,200,50409,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.110,1716010277,GET,/css/a189254f7075023bd138e458a02c5d44-bundle.css?ts=20240308175348,200,1896,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.26,1716010277,GET,/js/a189254f7075023bd138e458a02c5d44-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+66.249.70.201,1716015460,GET,/gallery/Resistance_Materiaux_II_contraintes_deformations.pdf,200,2434619,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.65 Mobile Safari/537.36 (compatible; GoogleOther)"
+46.8.222.52,1716016729,GET,/archivarix.cms.php,301,0,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.119 Safari/537.36"
+46.8.222.52,1716016730,GET,/archivarix.cms.php/,404,104,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.119 Safari/537.36"
+34.209.61.113,1716022782,GET,/,301,0,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+54.189.215.116,1716022784,GET,/,200,3112,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+34.209.61.113,1716022786,GET,/,200,3112,-,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+34.223.255.251,1716026237,GET,/,301,0,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
+34.223.255.251,1716026237,GET,/,200,3112,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
+138.246.253.24,1716027780,GET,/robots.txt,200,79,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36"
+207.46.13.64,1716038532,GET,/sitemap.xml.gz,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+207.46.13.154,1716040067,GET,/sitemaps.xml,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+207.46.13.141,1716042282,GET,/sitemap.xml.gz,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+157.55.39.54,1716043580,GET,/sitemaps.xml,404,93,-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+179.43.152.42,1716059149,GET,/,200,11475,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+179.43.152.42,1716059151,GET,/js/html5shiv.min.js,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+179.43.152.42,1716059164,GET,/js/html5shiv.min.js,404,119,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+51.222.253.17,1716062045,GET,/robots.txt,200,70,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.149.105,1716062108,GET,/,200,2770,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.208,1716062110,GET,/css/a189254f70750006d183188592056dfc-bundle.css?ts=20240308175348,200,2641,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.35,1716062110,GET,/js/a189254f70750006d183188592056dfc-bundle.js?ts=20240308175348,200,1,-,Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)

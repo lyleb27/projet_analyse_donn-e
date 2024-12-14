@@ -35,7 +35,7 @@ def process_access_log(file_path):
     return df
 
 # Chemin vers le fichier Access.log
-access_log_path = "chemin/du/fichier" # --> à remplir
+access_log_path = "C:/Users/lebou/Documents/B3/Analyse et Exploration des données/Projet/projet_analyse_donn-e/Access.log/access.log-20240616" # --> à remplir
 
 # Traitement du fichier
 df_access = process_access_log(access_log_path)
@@ -44,5 +44,5 @@ df_access = process_access_log(access_log_path)
 print(df_access.head())
 
 # Sauvegarde en CSV si besoin
-df_access.to_csv("processed_access_log.csv", index=False)
+df_access.to_csv("C:/Users/lebou/Documents/B3/Analyse et Exploration des données/Projet/projet_analyse_donn-e/processed_access_log_9.csv", index=False)
 

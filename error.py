@@ -43,8 +43,8 @@ def process_log_file(file_path):
 # Fonction principale
 def main():
     # Spécifiez le chemin du fichier de logs
-    file_path = "chemin/du/fichier" # --> à remplir
-    output_file = 'processed_error_log.csv'
+    file_path = "error.log-20240519" # --> à changer (non automatisé)
+    output_file = "processed_error_log_9.csv" # --> à changer (non automatisé)
 
     # Traitement du fichier et création du DataFrame
     df = process_log_file(file_path)

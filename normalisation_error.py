@@ -1,7 +1,7 @@
 import re
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 # Fonction de prétraitement pour nettoyer les lignes du fichier log
 def preprocess_line(line):

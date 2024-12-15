@@ -57,6 +57,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# "C:/Users/lebou/Documents/B3/Analyse et Exploration des données/Projet/Error.log/error.log-20240428"
